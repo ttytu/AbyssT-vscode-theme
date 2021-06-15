@@ -6,7 +6,7 @@
 	"author": {
 		"name": "Praveer Singh Chauhan"
 	},
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.57.0"
 	},
@@ -25,26 +25,28 @@
 		"Themes"
 	],
 	"keywords": [
-		"Theme",
-		"Themes",
-		"Dark Theme",
 		"Abyss",
-		"Abyss+"
+		"Abyss+",
+		"AbyssPlus",
+		"Dark Theme",
+		"Theme",
+		"Themes"
 	],
-	"badges": [],
+	"badges": [
+
+	],
 	"contributes": {
 		"themes": [
 			{
 				"label": "Abyss+",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Abyss+-color-theme.json"
+			},
+			{
+				"label": "Abyss+No_Italic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Abyss+No_Italic-color-theme.json"
 			}
 		]
-	},
-	"__metadata": {
-		"installedTimestamp": 1623696199643,
-		"id": "ab6235d1-24f0-4774-ba2a-7e96d6ce3954",
-		"publisherDisplayName": "Praveer Singh Chauhan",
-		"publisherId": "70c109ee-9019-4a5e-a3f1-2d82bd324834"
 	}
 }
