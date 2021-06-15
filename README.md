@@ -1,7 +1,10 @@
 # Abyss+ Theme for VS Code
+
 Thanks for checking out my VS Code theme. Currently there is only one option to choose from (I might add more in the future):
 
 - Colorful & Vibrant
+
+![Abyss+ Theme Demo](https://raw.githubusercontent.com/Veerhan-glitch/AbyssPlus-vscode-theme/main/Images/AbyssPluss.gif)
 
 ## Installation
 
@@ -10,6 +13,7 @@ Thanks for checking out my VS Code theme. Currently there is only one option to 
 3. Click Install
 4. Click Reload to reload your editor
 5. Select the Manage Cog (bottom left) > Color Theme ＞ Abyss+ Theme
+
 ## Issues & Suggestions
 
 For any issues or suggestions, please use [GitHub issues](https://github.com/Veerhan-glitch/AbyssPlus-vscode-theme/issues).
