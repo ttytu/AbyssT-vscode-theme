@@ -6,4 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.1] - 15-06-2021 (dd-mm-yyyy)
 - Initial release
+
+## [0.0.2] - 15-06-2021 (dd-mm-yyyy)
+- Added AbyssPlus keyword
+
+## [0.0.3] - 15-06-2021 (dd-mm-yyyy)
+- Added screenshots
