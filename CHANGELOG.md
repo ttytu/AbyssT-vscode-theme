@@ -14,3 +14,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.3] - 15-06-2021 (dd-mm-yyyy)
 - Added screenshots
+
+## [0.0.4] - 25-06-2021 (dd-mm-yyyy)
+- Added the icon
