@@ -1,8 +1,9 @@
 # Abyss+ Theme for VS Code
 
-Thanks for checking out my VS Code theme. Currently there is only one option to choose from (I might add more in the future):
+Thanks for checking out my VS Code theme. Currently there are only two options to choose from (I might add more in the future):
 
-- Colorful & Vibrant
+- Abyss+
+- Abyss+No_Italic
 
 ![Abyss+ Theme Demo](https://raw.githubusercontent.com/Veerhan-glitch/AbyssPlus-vscode-theme/main/Images/AbyssPluss.gif)
 
